@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sdifrancia
+- 👀 I’m interested in security, automation, AI, travel to discover the world and the depths of the sea
+- 🎓 I’m a Developer, Pentration Tester and Red Teamer
+- 🌱 I’m currently learning threat hunting
